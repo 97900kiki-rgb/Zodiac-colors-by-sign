@@ -133,4 +133,5 @@ RESTful Table API(`tables/color_cards`)로 저장되며, 스키마는 `.tables/s
 배포 시 `.tables/schema.json` 기준으로 D1 데이터베이스의 `color_cards` 테이블이 생성/갱신됩니다.   
 
    <img width="1146" height="710" alt="image" src="https://github.com/user-attachments/assets/08387885-9d51-4351-924d-0d305edac5d1" />
-
+실행링크:https://zodiac.kdt2025.com/   
+저장소:https://github.com/97900kiki-rgb/Zodiac-colors-by-sign
